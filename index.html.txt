@@ -593,8 +593,8 @@
     const DEFAULT_INITIAL_BALANCE = 5900;
 
     // ★★★ 在此填入您在 JSONBin 取得的設定（填入後所有手機與電腦自動連線，免手動設定） ★★★
-    const GLOBAL_CLOUD_BIN_ID = ""; // 例如: "6716a123e41044d2fb123456"
-    const GLOBAL_CLOUD_API_KEY = ""; // 例如: "$2a$10$xxxxxx..."
+    const GLOBAL_CLOUD_BIN_ID = "6ad8403dffd5d160537e20a9"; // 例如: "6716a123e41044d2fb123456"
+    const GLOBAL_CLOUD_API_KEY = "$2a$10$mqEG7XX/EsG7.QeBTpygfe6Aylrqj8byYAxmpGVLYqevs1CImKxQW"; // 例如: "$2a$10$xxxxxx..."
 
     // 預設 13 場歷史球敘資料（完整驗證並建檔）
     const DEFAULT_ROUNDS = [
